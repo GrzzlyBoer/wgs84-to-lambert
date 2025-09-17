@@ -5,7 +5,7 @@ This project provides a python implementation to convert WGS84 coordinates into 
 ## Features
 - custom implementation of the LCC projection for Austria
 - Handles entire vectors of coordinates using NumPy
-- Saves output as '.csv' files
+- Saves output as '.csv' file
 - Example usage with a reduced Austrian dataset
 
 ## Installation
