@@ -14,6 +14,6 @@ This project provides a python implementation to convert WGS84 coordinates into 
 
 
 ## Data
-- The example dataset is derived form teh GeoNames dataset on Kaggle https://www.kaggle.com/datasets/geonames/geonames-database?select=geonames.csv
+- The example dataset is derived form teh [GeoNames dataset on Kaggle] (https://www.kaggle.com/datasets/geonames/geonames-database?select=geonames.csv)
 - For this project, the dataset was reduced to only Austrian data to keep file sizes manageable.
-
+- **Credit** Original dataset by GeoNames, available under their license on Kaggle.
